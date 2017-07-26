@@ -1,0 +1,58 @@
+ASSENT IS THE OPPOSITE OF --> REFUSAL
+
+ECCENTRIC MEANS --> ODD
+
+ 4 PAIRS
+
+26*3.5*1.5=136.5
+
+DORT
+
+NEXT TO BLACK --> 2
+
+3
+ 
+3
+
+4
+
+3
+
+102
+
+6  -5   +3
+
+Y
+
+O
+
+31/131=23.7%
+
+
+Six years ago Annabelle was twice as old as Jason was. Now, Annabelle is four years older than Jason. How old is Jason now?
+The question has not been answered.
+A
+8
+	
+B
+10
+|
+Explanation
+Let’s call Annabelle’s age A and Jason’s age J.
+
+Annabelle is four years older than Jason, so 
+1. A=J+4
+
+Six years ago, Annabelle was twice as old as Jason was. 
+2. A-6=2×(J-6)
+
+If you replace A with J+4 we will have:
+J+4-6=2×(J-6)
+
+If you subtract 6 from four and open the parentheses you will get:
+J-2=2J-12
+
+If you add 12 to each side and subtract J from each side, you will get: 
+10=J
+
+Jason is therefore 10 years old.
